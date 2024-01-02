@@ -1,11 +1,11 @@
 version: '3'
 services:
   frontend:
-    image: frontend
+    image: alexpujolcomet917/expense-tracker:front
     ports:
       - "3000:3000"
   backend:
-    image: backend
+    image: alexpujolcomet917/expense-tracker:back
     ports:
       - "5000:5000"
     environment:

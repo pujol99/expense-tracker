@@ -14,3 +14,9 @@ Edit *docker-compose.yml* by changing `changeme` to your database name. (Example
 `docker-compose -f .\docker-compose.yml up`
 
 Open [application](http://localhost:3000/)
+
+### ARM user's
+
+`docker pull alexpujolcomet917/expense-tracker:front-arm`
+
+Edit *docker-compose.yml* by changing `:front` to `:front-arm`
