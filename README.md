@@ -16,8 +16,13 @@ Edit *docker-compose.yml* by changing `changeme` to your database name. (Example
 
 Open [application](http://localhost:3000/)
 
+
 ### ARM user's
 
 `docker pull alexpujolcomet917/expense-tracker:front-arm`
 
 Edit *docker-compose.yml* by changing `:front` to `:front-arm`
+
+
+### Extra resources
+[excell with bank movements](https://docs.google.com/spreadsheets/d/1-8L_fA8xpOU24aJi4RckAZ0T0FP_p_s9/edit?usp=sharing&ouid=109836800309591523741&rtpof=true&sd=true)
