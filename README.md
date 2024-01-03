@@ -25,4 +25,4 @@ Edit *docker-compose.yml* by changing `:front` to `:front-arm`
 
 
 ### Extra resources
-[excell with bank movements](https://docs.google.com/spreadsheets/d/1-8L_fA8xpOU24aJi4RckAZ0T0FP_p_s9/edit?usp=sharing&ouid=109836800309591523741&rtpof=true&sd=true)
+Try app with mock data [excell with bank movements](https://docs.google.com/spreadsheets/d/1-8L_fA8xpOU24aJi4RckAZ0T0FP_p_s9/edit?usp=sharing&ouid=109836800309591523741&rtpof=true&sd=true) File > Download
